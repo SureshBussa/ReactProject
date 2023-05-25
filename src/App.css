@@ -1,0 +1,93 @@
+.App {
+  text-align: center;
+}
+
+.d-grid {
+  max-width: 100%;
+}
+
+
+.primary-button {
+  margin-top: 5rem;
+  margin-right: 1rem;
+  padding: .6rem;
+  width: 10rem;
+  background: #222;
+  border: black;
+  color: #fff;
+  font-size: 1.2rem;
+  transition: all .5s;
+  cursor: pointer;
+  text-transform: capitalize
+} 
+
+/***    Landing Page     ***/
+.main-title,
+.main-para {
+  color: #2844c0
+}
+
+.main-title {
+  padding-top: 10rem;
+  font-size: 5rem;
+  font-family: 'Fascinate', 'cursive';
+  text-transform: uppercase
+}
+
+.main-para {
+  font-size: 2.5rem;
+  text-Transform: capitalize
+}
+
+#reg_btn span {
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#reg_btn span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+#reg_btn:hover span {
+padding-right: 25px;
+}
+
+#reg_btn:hover span:after {
+opacity: 1;
+right: 0;
+}
+
+form {
+  display: inline-block;
+  background: rgb(179, 211, 223);
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  padding: 2rem;
+  margin: 2rem 0 1rem 0
+}
+
+form label {
+  float: left;
+  font-size: .9rem;
+  margin: 0;
+  padding: 0
+}
+
+.right-label {
+  float: right;
+  cursor: pointer
+}
+
+table {
+  background: rgb(179, 211, 223);
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  padding: 2rem;
+  margin: 2rem 0 1rem 0
+}

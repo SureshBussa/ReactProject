@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dhoni",
+      "sex": "M",
+      "dob": "10-10-1999",
+      "salary": "56000",
+      "department": "Hr"
+    },
+    {
+      "id": 2,
+      "name": "gaikwad",
+      "sex": "M",
+      "dob": "14-10-2001",
+      "salary": "64000",
+      "department": "Sales"
+    },
+    {
+      "id": 3,
+      "name": "Rahane",
+      "sex": "M",
+      "dob": "1-1-1991",
+      "salary": "70000",
+      "department": "Accounts"
+    },
+    {
+      "id": 4,
+      "name": "DeshPande",
+      "sex": "M",
+      "dob": "15-06-2002",
+      "salary": "45000",
+      "department": "Hr"
+    },
+    {
+      "id": 5,
+      "name": "theekshana",
+      "sex": "M",
+      "dob": "29-06-1999",
+      "salary": "80000",
+      "department": "Sales"
+    },
+    {
+      "id": 6,
+      "name": "Dube",
+      "sex": "M",
+      "dob": "13-01-1990",
+      "salary": "90000",
+      "department": "Accounts"
+    },
+    {
+      "id": 7,
+      "name": "kanve",
+      "sex": "M",
+      "dob": "06-12-1898",
+      "salary": "90000",
+      "department": "Hr"
+    },
+    {
+      "id": 8,
+      "name": "jadeja",
+      "sex": "M",
+      "dob": "18-01-1996",
+      "salary": "68000",
+      "department": "Sales"
+    },
+    {
+      "name": "Suresh Bussa",
+      "sex": "M",
+      "dob": "2023-05-23",
+      "salary": "20000",
+      "department": "Accounts",
+      "id": 9
+    }
+  ]
+}

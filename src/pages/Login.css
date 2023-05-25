@@ -1,0 +1,29 @@
+* {
+    justify-content: center;
+}
+
+
+.login {
+    display: flex;
+    flex-direction: column;
+    min-height: '100%'; 
+     align-items: center;
+     width:40%;
+     border: 1px solid;
+     margin-left: auto;
+     margin-right: auto;
+    
+  }
+  .Container{
+    margin: 25px;
+    font-size: 15px;
+  }
+  
+    label {
+        text-align: left;
+        padding: 0.25rem 0;
+    }
+  
+    input {
+        margin: 0.5rem 0;
+    }
