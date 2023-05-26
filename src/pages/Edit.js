@@ -20,7 +20,7 @@ function Edit() {
             setValues({...values, name: res.data.name, sex: res.data.sex, dob: res.data.dob, salary: res.data.salary, department: res.data.department})
         })
         .catch(err => console.log(err))
-    }, )
+    },[])
 
     const navigate = useNavigate();
 
